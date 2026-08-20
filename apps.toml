@@ -1388,6 +1388,31 @@ source = "https://git.fiatjaf.com/lantern"
 thumb = "https://lh3.googleusercontent.com/aV2Br8dbpnyO1LS5cZRwwx3qN7gmLOvYNSGLq2keecKaFgzD93RkBZFcALizJMeUcNtot4wUWvCEWF7YH6CYQYgcquc=s60"
 url = "https://chromewebstore.google.com/detail/lantern/jjoijlenmgefkaeiomoaelcljfibpcgh"
 
+[libermedia]
+name = "LiberMedia"
+categories = [ "microblogging", "direct-message", "media" ]
+description = "Open-source Nostr social network with Bitcoin/Lightning zaps, DMs, media and groups"
+gallery = [
+  "https://media.libernet.app/1faf13c295eb9997d32e7037beb3e1bfe6db19ff513118022be76da80bd246db",
+  "https://media.libernet.app/bd75b9c84b0adf6b4a223a84378e873f60b039051f5c3cd94d68aa7db0309d96",
+  "https://media.libernet.app/74289167e92d85f97c56185afefb3dc3db5b54e791403a56aafe35c741f5abe9",
+  "https://media.libernet.app/19fa0112016e22b109b6b504b7b1abf43c04993a8759cc2ad44b38d44cdc93c7",
+  "https://media.libernet.app/6d3ad00ab88e7cc858761884cd6661ef88335b738a2c27b88210d3e6a8437920"
+]
+features = [
+  "Social feed, media and short videos (Reels)",
+  "End-to-end encrypted DMs (NIP-44)",
+  "Group chats (NIP-29)",
+  "Bitcoin/Lightning zaps and built-in wallet",
+  "Open-source (MIT), self-hostable",
+  "PWA + Android APK"
+]
+npub = "npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr"
+platforms = [ "web", "android" ]
+source = "https://github.com/lucianocasalunga/libermedia-twa"
+thumb = "https://media.libernet.app/07967af0e94d91138dc1e200eb634757935cf3a0f778b9a0b507081f27080388"
+url = "https://media.libernet.app"
+
 
 [camelus]
 name = "camelus"
