@@ -1413,6 +1413,28 @@ source = "https://github.com/lucianocasalunga/libermedia-twa"
 thumb = "https://media.libernet.app/07967af0e94d91138dc1e200eb634757935cf3a0f778b9a0b507081f27080388"
 url = "https://media.libernet.app"
 
+[makore]
+name = "MaKoré"
+categories = [ "direct-message", "group-chat" ]
+description = "End-to-end encrypted Nostr messenger with NIP-17/NIP-44 DMs, group chats and Bitcoin/Lightning gifts"
+gallery = [
+  "https://media.libernet.app/3270225a7af264213e9d1c7d5c8a790c5010b3592fe3c70bb3b54a45686ec1d1",
+  "https://media.libernet.app/90e9921064cbfbe7021aeae62deb56a41791ac78a9cc80c2d6fd4f2aa2024a2f",
+  "https://media.libernet.app/3519af91246888747e900a0632cf3592290a1e4d6b9d8951db61d82c485e02a8"
+]
+features = [
+  "End-to-end encrypted DMs (NIP-17 + NIP-44)",
+  "Encrypted group chats (NIP-29)",
+  "Bitcoin/Lightning gifts (zaps in DMs)",
+  "Open-source (MIT), self-hostable",
+  "PWA + Android APK"
+]
+npub = "npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr"
+platforms = [ "web", "android" ]
+source = "https://github.com/lucianocasalunga/makore-twa"
+thumb = "https://media.libernet.app/0ed03ccc0480d8ea03fdd0761e5ccfce1f9196571554e2f3d2d4c5d5113bbf7a"
+url = "https://makore.libernet.app"
+
 
 [camelus]
 name = "camelus"
