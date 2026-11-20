@@ -1435,6 +1435,25 @@ source = "https://github.com/lucianocasalunga/makore-twa"
 thumb = "https://media.libernet.app/0ed03ccc0480d8ea03fdd0761e5ccfce1f9196571554e2f3d2d4c5d5113bbf7a"
 url = "https://makore.libernet.app"
 
+[liberwallet]
+name = "LiberWallet"
+categories = [ "tools" ]
+description = "Self-sovereign Bitcoin/Lightning wallet with Nostr identity and Nostr Wallet Connect (NIP-47) support"
+gallery = [
+  "https://media.libernet.app/f2d18a0ee6d4888970dd9b8df4b1d864f29a3877bfa05504c7aebcd621114b1d",
+  "https://media.libernet.app/36f667bc363e4cd514d775ee4744d88460d33964da61b3879ae4ee7861c6d5a4"
+]
+features = [
+  "Bitcoin/Lightning custodial wallet with Nostr identity",
+  "Nostr Wallet Connect provider (NIP-47)",
+  "BTC on-chain deposits",
+  "PWA + Android APK"
+]
+npub = "npub1nvcezhw3gze5waxtvrzzls8qzhvqpn087hj0s2jl948zr4egq0jqhm3mrr"
+platforms = [ "web", "android" ]
+thumb = "https://media.libernet.app/ddd9f00d9c51efa26a55524c7cc65a0e742eb0d96c2afa5289d2a119b50f6f12"
+url = "https://wallet.libernet.app"
+
 
 [camelus]
 name = "camelus"
